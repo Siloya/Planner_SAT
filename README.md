@@ -11,7 +11,7 @@ It also includes a benchmark and comparison framework against the classical **HS
 
 ## How to Run
 
-### 1. ⚒ Compile the SAT Planner
+### 1.  Compile the SAT Planner
 
 Use Maven to build and run:
 
